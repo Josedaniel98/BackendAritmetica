@@ -4,9 +4,9 @@ El backend se realizó con ASP.NET Web Api, versión 8
 
 Instalación
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone git@github.com:Josedaniel98/BackendAritmetica.git
 
-cd tu-repositorio
+cd BackendAritmetica
 
 dotnet restore
 
